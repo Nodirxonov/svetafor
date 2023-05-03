@@ -1,0 +1,38 @@
+.parent {
+    width: 204px;
+    background-color: #ccc;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: green;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.chop {
+    width: 50px;
+    height: 400px;
+    background-color: black;
+    margin-left: 75px;
+    margin: 0 auto;
+}
